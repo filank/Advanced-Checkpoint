@@ -1,0 +1,12 @@
+* {
+  font-family: sans-serif; /* Change your font family */
+}
+.App {
+  display: flex;
+  justify-content: center;
+}
+
+.table th,
+.table td {
+  padding: 12px 15px;
+}
